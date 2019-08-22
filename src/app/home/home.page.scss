@@ -1,1 +1,22 @@
 
+.text-align{
+    text-align: center;
+}
+.drop-down_holder{
+    margin: 2%;
+    border-bottom:solid 1px;
+}
+.list-data-holder{
+    align-items: center;
+
+    padding: 1%;
+    display: flex;
+    justify-content: space-between
+}
+.list-holder{
+    padding: 1%;
+    border: solid 2px;
+}
+span{
+    font-size: .70rem;
+}
